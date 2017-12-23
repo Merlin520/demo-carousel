@@ -1,0 +1,12 @@
+.viewport {
+    width: 400px;
+    overflow: hidden;
+}
+
+.image {
+    display: flex;
+    align-items: flex-start;
+}
+
+
+
